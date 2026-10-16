@@ -1,0 +1,13 @@
+.env
+.env.*
+!.env.example
+.env.save
+venv/
+.venv/
+__pycache__/
+*.pyc
+.DS_Store
+.streamlit/secrets.toml
+Notebook_Experiments/
+.agents/
+.claude/
